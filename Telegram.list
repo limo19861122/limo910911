@@ -1,0 +1,11 @@
+# 电报服务域名规则
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,desktop.telegram.org
+DOMAIN-SUFFIX,tcdn.tl
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,api.telegram.org
+DOMAIN-SUFFIX,web.telegram.org

@@ -1,0 +1,26 @@
+# AI 服务域名规则
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,eleuther.ai
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,ai21.com
+DOMAIN-SUFFIX,scale.com
+DOMAIN-SUFFIX,sensebot.net
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,openml.org
+DOMAIN-SUFFIX,gradient.run
+DOMAIN-SUFFIX,pyimagesearch.com
+DOMAIN-SUFFIX,wandb.ai
+DOMAIN-SUFFIX,mlflow.org
+DOMAIN-SUFFIX,datarobot.com
+DOMAIN-SUFFIX,fast.ai
+DOMAIN-SUFFIX,cbinsights.com
+DOMAIN-SUFFIX,aiweirdness.com
+DOMAIN-SUFFIX,metabase.com
