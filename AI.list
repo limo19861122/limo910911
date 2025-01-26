@@ -1,14 +1,14 @@
 # 域名组名称 AI
 
 # 关键字匹配
-DOMAIN-KEYWORD,chatgpt,
-DOMAIN-KEYWORD,openai,
-DOMAIN-KEYWORD,Claude,
-DOMAIN-KEYWORD,anthropic,
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,anthropic
 
 # 域名后缀匹配
-DOMAIN-REGEX,^.*\.openai\..*$,
-DOMAIN-REGEX,^.*\.chatgpt\..*$,
+DOMAIN-REGEX,^.*\.openai\..*$
+DOMAIN-REGEX,^.*\.chatgpt\..*$
 
 #其它域名匹配  注意:(可选自定义添加）
 DOMAIN,copilot.microsoft.com
