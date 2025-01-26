@@ -1,10 +1,10 @@
 # 域名组名称 奈飞
 
 # 关键字匹配
-DOMAIN-KEYWORD,netflix,奈飞
+DOMAIN-KEYWORD,netflix
 
 # 域名后缀匹配
-DOMAIN-REGEX,^.*\.netflix\..*$,奈飞
+DOMAIN-REGEX,^.*\.netflix\..*$
 
 # 其它域名匹配（可选自定义添加）
 DOMAIN-SUFFIX,fast.com
