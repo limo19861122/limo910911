@@ -1,14 +1,14 @@
 # 域名组名称 谷微电
 
 # 关键字匹配
-DOMAIN-KEYWORD,google,谷微电
-DOMAIN-KEYWORD,microsoft,谷微电
-DOMAIN-KEYWORD,Telegram,谷微电
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,Telegram
 
 # 域名后缀匹配
-DOMAIN-REGEX,^.*\.google\..*$,谷微电
-DOMAIN-REGEX,^.*\.microsoft\..*$,谷微电
-DOMAIN-REGEX,^.*\.Telegram\..*$,谷微电
+DOMAIN-REGEX,^.*\.google\..*$
+DOMAIN-REGEX,^.*\.microsoft\..*$
+DOMAIN-REGEX,^.*\.Telegram\..*$
 
 # 其它域名匹配（可选自定义添加）
 DOMAIN-SUFFIX,t.me
