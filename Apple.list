@@ -1,10 +1,10 @@
 # 域名组名称 苹果
 
 # 关键字匹配
-DOMAIN-KEYWORD,apple,苹果
+DOMAIN-KEYWORD,apple
 
 # 域名后缀匹配
-DOMAIN-REGEX,^.*\.apple\..*$,苹果
+DOMAIN-REGEX,^.*\.apple\..*$
 
 # 其它域名匹配（可选自定义添加）
 DOMAIN-SUFFIX,shazam.com
@@ -155,7 +155,3 @@ DOMAIN-SUFFIX,webobjects.co.uk
 DOMAIN-SUFFIX,webobjects.de
 DOMAIN-SUFFIX,webobjects.eu
 DOMAIN-SUFFIX,webobjects.net
-
-
-# 未匹配流量按指定外部规则集继续检索，并由YouTube策略组处理流量
-RULE-SET,https://raw.githubusercontent.com/limo19861122/limo910911/refs/heads/openwrt/YouTube.list,YouTube
