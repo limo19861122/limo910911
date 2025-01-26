@@ -92,7 +92,3 @@ DOMAIN-SUFFIX,fragment.tech
 DOMAIN-SUFFIX,fragment.website
 DOMAIN-SUFFIX,fragment.work
 DOMAIN-SUFFIX,fragment.world
-
-
-# 未匹配流量按指定外部规则集继续检索，并由奈飞策略组处理流量
-RULE-SET,https://raw.githubusercontent.com/limo19861122/limo910911/refs/heads/openwrt/Netflix.list,奈飞
