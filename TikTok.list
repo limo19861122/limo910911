@@ -141,6 +141,3 @@ DOMAIN-SUFFIX,bytedanceapi.be
 DOMAIN-SUFFIX,bytedanceapi.lu
 DOMAIN-SUFFIX,bytedanceapi.de
 DOMAIN-SUFFIX,bytedanceapi.at
-
-# 未匹配流量按指定外部规则集继续检索，并由国外策略组处理流量
-RULE-SET,https://raw.githubusercontent.com/limo19861122/limo910911/refs/heads/openwrt/Foreign.list,国外
