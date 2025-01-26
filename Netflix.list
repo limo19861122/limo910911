@@ -1,0 +1,20 @@
+# 域名组名称 奈飞
+
+# 关键字匹配
+DOMAIN-KEYWORD,netflix,奈飞
+
+# 域名后缀匹配
+DOMAIN-REGEX,^.*\.netflix\..*$,奈飞
+
+# 其它域名匹配（可选自定义添加）
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxsearch.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+
+
+# 未匹配流量按指定外部规则集继续检索，并由TikTok策略组处理流量
+RULE-SET,https://raw.githubusercontent.com/limo19861122/limo910911/refs/heads/openwrt/TikTok.list,TikTok
