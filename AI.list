@@ -1,14 +1,14 @@
 # 域名组名称 AI
 
 # 关键字匹配
-DOMAIN-KEYWORD,chatgpt,AI
-DOMAIN-KEYWORD,openai,AI
-DOMAIN-KEYWORD,Claude,AI
-DOMAIN-KEYWORD,anthropic,AI
+DOMAIN-KEYWORD,chatgpt,
+DOMAIN-KEYWORD,openai,
+DOMAIN-KEYWORD,Claude,
+DOMAIN-KEYWORD,anthropic,
 
 # 域名后缀匹配
-DOMAIN-REGEX,^.*\.openai\..*$,AI
-DOMAIN-REGEX,^.*\.chatgpt\..*$,AI
+DOMAIN-REGEX,^.*\.openai\..*$,
+DOMAIN-REGEX,^.*\.chatgpt\..*$,
 
 #其它域名匹配  注意:(可选自定义添加）
 DOMAIN,copilot.microsoft.com
@@ -78,8 +78,3 @@ DOMAIN-SUFFIX,domino.ai
 DOMAIN-SUFFIX,elementai.com
 DOMAIN-SUFFIX,graphcore.ai
 DOMAIN-SUFFIX,landing.ai
-
-
-
-# 未匹配流量按指定外部规则集继续检索，并由苹果策略组处理流量
-RULE-SET,https://raw.githubusercontent.com/limo19861122/limo910911/refs/heads/openwrt/Apple.list,苹果
