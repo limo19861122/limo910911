@@ -1,10 +1,10 @@
 # 域名组名称 TikTok
 
 # 关键字匹配
-DOMAIN-KEYWORD,tiktok,TikTok
+DOMAIN-KEYWORD,tiktok
 
 # 域名后缀匹配
-DOMAIN-REGEX,^.*\.tiktok\..*$,TikTok
+DOMAIN-REGEX,^.*\.tiktok\..*$
 
 # 其它域名匹配（可选自定义添加）
 DOMAIN-SUFFIX,musical.ly
