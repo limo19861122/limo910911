@@ -1,0 +1,15 @@
+# 域名组名称 YouTube
+
+# 关键字匹配
+DOMAIN-KEYWORD,youtube
+
+# 域名后缀匹配
+DOMAIN-REGEX,^.*\.youtube\..*$
+
+# 其它域名匹配（可选自定义添加）
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,ggpht.cn
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-nocookie.com
+

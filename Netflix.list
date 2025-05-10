@@ -1,0 +1,16 @@
+# 域名组名称 奈飞
+
+# 关键字匹配
+DOMAIN-KEYWORD,netflix
+
+# 域名后缀匹配
+DOMAIN-REGEX,^.*\.netflix\..*$
+
+# 其它域名匹配（可选自定义添加）
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxsearch.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
